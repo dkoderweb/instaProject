@@ -1,2 +1,2 @@
- # Created Instagram clon from Larvel Framework
+ # Created Instagram clone  from Larvel Framework
  
