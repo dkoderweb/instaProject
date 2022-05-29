@@ -1,2 +1,2 @@
-# instaProject made with php laravel framework
+# Instagram clon made with php laravel framework
  
