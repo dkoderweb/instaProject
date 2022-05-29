@@ -1,2 +1,2 @@
-# instaProject made with php larave framework
+# instaProject made with php laravel framework
  
