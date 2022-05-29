@@ -1,2 +1,2 @@
-# Instagram clon made with php laravel framework
+ Created Instagram clon from Larvel Framework
  
